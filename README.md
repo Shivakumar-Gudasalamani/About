@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivakumar-Gudasalamani
+- 👋 Hi, I’m Shivakumar Gudasalamani
 - 👀 I’m interested in Web development 
  
 
