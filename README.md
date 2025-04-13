@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shivakumar Gudasalamani
-- 👀 I’m interested in Web development 
+- 👀 I’m interested in VLSI Design and Verification 
  
 
 <!---
